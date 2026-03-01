@@ -14,7 +14,7 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 
 </div>
 
-<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/master/assets/divider.svg" width="100%" />
 
 <!-- ── Featured Projects ────────────────────────────────────────────── -->
 
@@ -40,7 +40,7 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 
 </div>
 
-<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/master/assets/divider.svg" width="100%" />
 
 <!-- ── Tech Stack ───────────────────────────────────────────────────── -->
 
@@ -91,7 +91,7 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 
 </div>
 
-<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/master/assets/divider.svg" width="100%" />
 
 <!-- ── GitHub Stats ─────────────────────────────────────────────────── -->
 
@@ -114,7 +114,7 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 
 </div>
 
-<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/master/assets/divider.svg" width="100%" />
 
 <!-- ── Snake Animation ──────────────────────────────────────────────── -->
 
@@ -128,7 +128,7 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 
 </div>
 
-<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/main/assets/divider.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/master/assets/divider.svg" width="100%" />
 
 <!-- ── Footer ───────────────────────────────────────────────────────── -->
 
