@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=40&lines=Building+AI-powered+products;Full-stack+engineer+%26+system+architect;Turning+complex+problems+into+elegant+solutions" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=AI+integrated+apps+builder;Full-stack+%26+ML+engineer;Shipping+fast%2C+building+smart" alt="Typing SVG" /></a>
 
 <br><br>
 
@@ -22,21 +22,13 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 
 ## Featured Projects
 
-<a href="https://github.com/alishansnsn/melanin-portal">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alishansnsn&repo=melanin-portal&bg_color=0d1117&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/alishansnsn/imp-intelligence">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alishansnsn&repo=imp-intelligence&bg_color=0d1117&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/alishansnsn/segue">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alishansnsn&repo=segue&bg_color=0d1117&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/alishansnsn/ai-agent-orchestrators">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alishansnsn&repo=ai-agent-orchestrators&bg_color=0d1117&theme=github_dark&hide_border=true" />
-</a>
-<a href="https://github.com/alishansnsn/containerized-automated-qc-pipeline">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=alishansnsn&repo=containerized-automated-qc-pipeline&bg_color=0d1117&theme=github_dark&hide_border=true" />
-</a>
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**melanin-portal**](https://github.com/alishansnsn/melanin-portal) | Full-stack portal application | ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) |
+| [**imp-intelligence**](https://github.com/alishansnsn/imp-intelligence) | AI-powered compensation benchmarking agent | ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) ![OpenAI](https://img.shields.io/badge/-AI-0d1117?style=flat-square&logo=openai&logoColor=white) |
+| [**segue**](https://github.com/alishansnsn/segue) | Focus overlay for macOS — dims everything except active window | ![Swift](https://img.shields.io/badge/-Swift-0d1117?style=flat-square&logo=swift&logoColor=F05138) |
+| [**ai-agent-orchestrators**](https://github.com/alishansnsn/ai-agent-orchestrators) | Complex multi-agent AI systems with LangChain | ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB) ![AI](https://img.shields.io/badge/-AI-0d1117?style=flat-square&logo=openai&logoColor=white) |
+| [**containerized-automated-qc-pipeline**](https://github.com/alishansnsn/containerized-automated-qc-pipeline) | Containerized automated quality control pipeline | ![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3776AB) ![Docker](https://img.shields.io/badge/-Docker-0d1117?style=flat-square&logo=docker&logoColor=2496ED) |
 
 </div>
 
@@ -100,16 +92,7 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 ## GitHub Stats
 
 <a href="https://github.com/alishansnsn">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=alishansnsn&show_icons=true&count_private=true&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
-</a>
-<a href="https://github.com/alishansnsn">
   <img height="180" src="https://streak-stats.demolab.com?user=alishansnsn&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6e6e&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681&hide_border=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/alishansnsn">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alishansnsn&layout=compact&langs_count=8&bg_color=0d1117&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff" />
 </a>
 
 </div>
