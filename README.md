@@ -24,6 +24,8 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**solana-programs**](https://github.com/alishansnsn/solana-programs) | Anchor-based SPL token vault with PDA auth | ![Rust](https://img.shields.io/badge/-Rust-0d1117?style=flat-square&logo=rust&logoColor=CE422B) ![Solana](https://img.shields.io/badge/-Solana-0d1117?style=flat-square&logo=solana&logoColor=9945FF) |
+| [**ethereum-contracts**](https://github.com/alishansnsn/ethereum-contracts) | ERC-4626 staking vault with reward distribution | ![Solidity](https://img.shields.io/badge/-Solidity-0d1117?style=flat-square&logo=solidity&logoColor=363636) ![Ethereum](https://img.shields.io/badge/-Ethereum-0d1117?style=flat-square&logo=ethereum&logoColor=3C3C3D) |
 | [**melanin-portal**](https://github.com/alishansnsn/melanin-portal) | Full-stack portal application | ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) |
 | [**imp-intelligence**](https://github.com/alishansnsn/imp-intelligence) | AI-powered compensation benchmarking agent | ![TypeScript](https://img.shields.io/badge/-TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6) ![OpenAI](https://img.shields.io/badge/-AI-0d1117?style=flat-square&logo=openai&logoColor=white) |
 | [**segue**](https://github.com/alishansnsn/segue) | Focus overlay for macOS — dims everything except active window | ![Swift](https://img.shields.io/badge/-Swift-0d1117?style=flat-square&logo=swift&logoColor=F05138) |
@@ -44,6 +46,8 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=3776AB)
+![Rust](https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=CE422B)
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity&logoColor=363636)
 ![Swift](https://img.shields.io/badge/Swift-0d1117?style=for-the-badge&logo=swift&logoColor=F05138)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Ruby](https://img.shields.io/badge/Ruby-0d1117?style=for-the-badge&logo=ruby&logoColor=CC342D)
@@ -59,6 +63,13 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 ![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
 ![Express](https://img.shields.io/badge/Express-0d1117?style=for-the-badge&logo=express&logoColor=ffffff)
 ![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi&logoColor=009688)
+
+**Web3**
+
+![Solana](https://img.shields.io/badge/Solana-0d1117?style=for-the-badge&logo=solana&logoColor=9945FF)
+![Ethereum](https://img.shields.io/badge/Ethereum-0d1117?style=for-the-badge&logo=ethereum&logoColor=3C3C3D)
+![Anchor](https://img.shields.io/badge/Anchor-0d1117?style=for-the-badge&logo=anchor&logoColor=ffffff)
+![Foundry](https://img.shields.io/badge/Foundry-0d1117?style=for-the-badge&logo=ethereum&logoColor=ffffff)
 
 **AI / ML**
 
