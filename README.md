@@ -116,9 +116,6 @@ I build AI-powered products and scalable systems. From multi-agent AI orchestrat
 
 <div align="center">
 
-### Let's build something together
-
-[![Email](https://img.shields.io/badge/Email-alishansnsn@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=white&color=0d1117)](mailto:alishansnsn@gmail.com)
 
 <br>
 
