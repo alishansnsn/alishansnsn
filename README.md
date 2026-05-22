@@ -36,30 +36,4 @@ Systems Deisgn + Full Stack Building + MVPs
 <img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/master/assets/divider.svg" width="100%" />
 
 
-<!-- ── GitHub Stats ─────────────────────────────────────────────────── -->
-
-<div align="center">
-
-## GitHub Stats
-
-<a href="https://github.com/alishansnsn">
-  <img height="180" src="https://streak-stats.demolab.com?user=alishansnsn&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff6e6e&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=c9d1d9&dates=6e7681&hide_border=true" />
-</a>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/master/assets/divider.svg" width="100%" />
-
-
-<!-- ── Footer ───────────────────────────────────────────────────────── -->
-
----
-
-<div align="center">
-
-
-<br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=alishansnsn&color=0d1117&style=flat-square&label=Profile+Views)
-
 </div>
