@@ -1,15 +1,10 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&repeat=true&width=450&height=40&lines=AI+integrated+apps+builder;Full-stack+%26+ML+engineer" alt="Typing SVG" /></a>
-
-<br><br>
-
 # Hey, I'm Ali Shan
 
-Systems Deisgn + Full Stack Building + MVPs
+Full Stack Builder
 
 <br>
-
 
 </div>
 
@@ -34,6 +29,3 @@ Systems Deisgn + Full Stack Building + MVPs
 </div>
 
 <img src="https://raw.githubusercontent.com/alishansnsn/alishansnsn/master/assets/divider.svg" width="100%" />
-
-
-</div>
