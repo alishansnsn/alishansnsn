@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hey, I'm Ali Shan
+# Full Stack Builder
 
-Full Stack Builder
+React, Next js, Express/Hono
 
 <br>
 
