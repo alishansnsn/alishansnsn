@@ -2,7 +2,7 @@
 
 # Full Stack Builder
 
-React, Next js, Express/Hono
+React, Next.js, Express/Hono
 
 <br>
 
